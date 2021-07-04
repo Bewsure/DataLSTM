@@ -903,7 +903,7 @@ date,pressure,wind_speed,humidity,temperature,PM10,PM2.5
 20-04-20,101083.7415,1,74,31.55808,31,15
 20-04-21,100948.2859,1,72,31.947,34,15
 20-04-22,101016.0137,0,70,32.44704,31,20
-                  bnvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv,101083.7415,6,70,31.50252,34,20
+20-04-23,101083.7415,6,70,31.50252,34,20
 20-04-24,101117.6054,1,70,30.78024,47,23
 20-04-25,101049.8776,0,77,30.50244,52,25
 20-04-26,100914.422,4.8,85.8,29.89128,46,31
